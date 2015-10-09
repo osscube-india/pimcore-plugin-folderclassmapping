@@ -1,0 +1,2 @@
+
+FolderClassMappings Plugin works!
